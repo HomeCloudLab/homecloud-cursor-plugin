@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "homecloud",
+  "displayName": "HomeCloud",
+  "description": "HomeCloud Remote MCP — Tasks, Object Storage, Message Queues, and account tools via OAuth.",
+  "version": "0.2.1",
+  "author": {
+    "name": "HomeCloud Lab"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "homecloud", "tasks", "storage", "queues", "oauth"],
+  "logo": "assets/logo.svg",
+  "homepage": "https://console.holab.abrdns.com",
+  "repository": "https://github.com/HomeCloudLab/homecloud-cursor-plugin"
+}

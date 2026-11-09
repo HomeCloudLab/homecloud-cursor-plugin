@@ -2,7 +2,7 @@
   "name": "homecloud",
   "displayName": "HomeCloud",
   "description": "HomeCloud Remote MCP — Tasks, Object Storage, Message Queues, and account tools via OAuth.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": {
     "name": "HomeCloud Lab"
   },
