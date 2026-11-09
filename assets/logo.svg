@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 715 715">
+  <title>HomeCloud</title>
+  <rect x="0" y="0" width="715" height="715" fill="#1B2C3D"/>
+  <g transform="translate(0,94)" fill="none" stroke="#F2871E" stroke-width="15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M218,352 C168,352 128,312 128,262 C128,212 168,172 218,172 C222,172 226,172 230,173 C244,122 291,85 347,85 C407,85 456,127 466,182 C474,178 483,176 493,176 C533,176 566,209 566,249 C566,289 533,322 493,322"/>
+    <rect x="255" y="205" width="205" height="70" rx="16"/>
+    <rect x="255" y="277" width="205" height="70" rx="16"/>
+    <circle cx="292" cy="240" r="8" fill="#F2871E" stroke="none"/>
+    <circle cx="322" cy="240" r="8" fill="#F2871E" stroke="none"/>
+    <circle cx="292" cy="312" r="8" fill="#F2871E" stroke="none"/>
+    <circle cx="322" cy="312" r="8" fill="#F2871E" stroke="none"/>
+    <path d="M357,347 L357,405"/>
+    <path d="M245,418 L330,418"/>
+    <path d="M384,418 L469,418"/>
+    <circle cx="357" cy="418" r="18"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "homecloud": {
+      "url": "https://mcp.holab.abrdns.com/mcp/",
+      "auth": {
+        "CLIENT_ID": "homecloud-mcp-public"
+      }
+    }
+  }
+}
